@@ -1,0 +1,30 @@
+const footContent={
+    linksDivID: "links",
+    linksTitle: "Useful Links",
+    qauLink: "http://qau.edu.pk/",
+    qauTitle: "QAU",
+    admissionLink: "https://cs.qau.edu.pk/admissions.php",
+    admissionTitle: "Admissions",
+    contactLink: "https://cs.qau.edu.pk/contactUs.php",
+    contactTitle: "Contact",
+    programsDivID: "programs",
+    programsTitle: "Our Programs",
+    phdLink: "https://cs.qau.edu.pk/Phd.php",
+    phdTitle: "PhD (Computer Science)",
+    msLink: "https://cs.qau.edu.pk/ms.php",
+    msTitle: "MS (Information Science & Technology)",
+    mphilLink: "https://cs.qau.edu.pk/mphil.php",
+    mphilTitle: "MPhil (Computer Science)",
+    mscLink: "https://cs.qau.edu.pk/msc.php",
+    mscTitle: "M.Sc (Computer Science)",
+    bsLink: "https://cs.qau.edu.pk/Bs.php",
+    bstitle: "BS (Computer Science)",
+    addressDivID: "address",
+    deptName: "Department of Computer Sciences,",
+    uniName: "Quaid-i-Azam University,",
+    loc: "Islamabad, 45320, Pakistan",
+    phone: "+92 (051) 9064-2057",
+}
+
+
+export default footContent;
